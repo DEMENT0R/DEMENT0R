@@ -1,4 +1,16 @@
-### Hi there 👋
+### Привет! 👋
+
+**Нравится работать с Laravel и Vue.js**
+
+*Zend Framework / Laminas - обсуждаемо*
+
+Могу:
+ - Быстро проектировать MVP
+ - проекты с нуля
+ - Делать Telegram ботов
+ - Пилить SPA
+ - Оборачивать в PWA
+ - Понимать чужой код =)
 
 <!--
 **DEMENT0R/DEMENT0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
