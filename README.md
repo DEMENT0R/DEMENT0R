@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2818,100:1b4332&height=180&section=header&text=PHP%20%C2%B7%20Laravel%20%C2%B7%20Vue&fontSize=42&fontColor=d8f3dc&fontAlignY=38" width="100%" alt="PHP · Laravel · Vue">
+
 <h1 align="center">Привет, я Максим 👋</h1>
 
 <p align="center">
